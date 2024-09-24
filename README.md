@@ -1,4 +1,4 @@
-                                                                Employee Data Management Pipeline
+                                                Employee Data Management Pipeline
 
 Overview
 This project implements a robust data pipeline for managing employee records using AWS Glue, S3, and Amazon Redshift. 
