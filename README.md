@@ -1,4 +1,5 @@
-Employee Data Management Pipeline
+                                                                Employee Data Management Pipeline
+
 Overview
 This project implements a robust data pipeline for managing employee records using AWS Glue, S3, and Amazon Redshift. 
 It utilizes a Slowly Changing Dimension (SCD) Type 2 approach to maintain historical data, ensuring that all changes to employee information are tracked effectively.
